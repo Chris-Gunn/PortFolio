@@ -4,9 +4,9 @@ age = int(input("How old are you? \n"))
 # Check if the user is over 100 years
 if age > 100:
     print("Sorry, you're dead.")
-# Check if the user is 65 or over
-elif age >= 65:
-    print("Enjoy your retirement!")
+# Check if the user is 71 or over
+elif age >= 75:
+    print("Happy retirement!")
 # Check if the user is 40 or over
 elif age >= 40:
     print("You're over the hill.")
